@@ -1,0 +1,38 @@
+# Built application files
+/app/build/
+
+# Files for the Dalvik VM
+*.class
+
+# Generated files
+generated/
+build/
+
+# Gradle files
+.gradle/
+gradle-wrapper.jar
+
+# Local configuration file
+local.properties
+
+# IDE settings
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Android Studio generated files
+capture/
+*.keystore
+*.jks
+
+# Log files
+logs/
+*.log
+
+# Environment variables
+.env
